@@ -33,7 +33,7 @@ Script needs an array of directory names (needs to be subdirectory of the script
 I.e. @('dir1', 'subdir1/dir2')
 
 .LINK
-https://github.com/RedFox-Development
+https://github.com/RedFox-Development/PS_CSV_merger
 
 #>
 
